@@ -1,16 +1,12 @@
-## Hi there 👋
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=Punto&fontAlign=80&fontAlignY=40&color=gradient" >
+<!-- 출처 : https://github.com/kyechan99/capsule-render -->
+           
+     
+              
+## 🌸 Who Am I 
+<p align="left"> 
 
-
-**punto279/punto279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 잠온다.... 오늘도 10시간 자고 엄마한테 혼났음..
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- I am interested in Reinforcement Learning, Robotics<br>
+- My major is Artificial intelligence<br>
+- I like to examine knowledg 🔬
+ </p><br>  
